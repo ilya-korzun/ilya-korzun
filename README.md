@@ -6,15 +6,14 @@
 ### 🔭 Мой технический стек:
 - **Адаптивная веб-разработка:** HTML5, CSS/SCSS/LESS, BEM;
 - **Frontend:** Vanilla JavaScript (ES6+);
-- **JavaScript библиотеки:** React, Redux;
-- **Тестирование кода:** Jest;
+- **JavaScript библиотеки:** React, Vue;
 - **Сборщики:** Gulp, Webpack;
-- **UX/UI:** Figma, Adobe Illustrator, Adobe Photoshop.
+- **UX/UI:** Figma, Adobe Illustrator, Adobe Photoshop, Adobe XD.
 
 ### 🌱 В данный момент изучаю:
 - **React**
+- **Vue**
 - **JS**
-- **Webpack**
 
 ### ⚡ Мои проекты:
 
