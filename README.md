@@ -32,7 +32,7 @@
 
 <p align="center">
       <a href="mailto:korsynilya77@gmail.com"><img height="36" src="./email.svg"></a>&nbsp;&nbsp;
-      <a href="https://t.me/ilya-korzun"><img height="36" width="36" src="./telegram.svg"></a>&nbsp;&nbsp;
+      <a href="https://t.me/ilya_korzun"><img height="36" width="36" src="./telegram.svg"></a>&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/ilya-korzun"><img height="36" width="36" src="./linkedin.svg"></a>&nbsp;&nbsp;
       <a href="https://www.instagram.com/korzun_ilya"><img height="36" width="36" src="./instagram.svg"></a>
 </p>
