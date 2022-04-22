@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="./header.png" width="100%" alt="Hello! I am Ilya. Frontend developer based in Minsk" />
+      <img src="./header.jpg" width="100%" alt="Hello! I am Ilya. Frontend developer based in Minsk" />
 </p>
 Добро пожаловать на мой GitHub. Меня зовут Илья и я начинающий фронтенд разработчик. Ежедневно я развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои проекты и узнать немного обо мне.
 
