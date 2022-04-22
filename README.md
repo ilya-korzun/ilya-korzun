@@ -1,7 +1,7 @@
 <p align="center">
-      <img src="./header.png" width="100%" alt="Hello! I am Dmitry. Frontend developer based in Moscow" />
+      <img src="./header.png" width="100%" alt="Hello! I am Ilya. Frontend developer based in Minsk" />
 </p>
-Добро пожаловать на мой GitHub. Я начинающий фронтенд разработчик. Ежедневно я развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои пет-проекты и узнать немного обо мне.
+Добро пожаловать на мой GitHub. Меня зовут Илья и я начинающий фронтенд разработчик. Ежедневно я развиваю свои знания в сфере веб-разработки. На моей странице GitHub Вы можете посмотреть мои проекты и узнать немного обо мне.
 
 ### 🔭 Мой технический стек:
 - **Адаптивная веб-разработка:** HTML5, CSS/SCSS/LESS, BEM;
@@ -31,7 +31,8 @@
 ### 💌 Буду рад рассмотреть Ваши предложения к сотрудничеству.
 
 <p align="center">
-      <a href="mailto:ds.korbut@gmail.com"><img height="36" src="./mail.svg"></a>&nbsp;&nbsp;
-      <a href="https://t.me/Korbutds"><img height="36" width="36" src="./telegram.svg"></a>&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/dskorbut/"><img height="36" width="36" src="./linkedIn.svg"></a>&nbsp;&nbsp;
+      <a href="mailto:korsynilya77@gmail.com"><img height="36" src="../email.png"></a>&nbsp;&nbsp;
+      <a href="https://t.me/ilya-korzun"><img height="36" width="36" src="../telegram.png"></a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/ilya-korzun"><img height="36" width="36" src="../linkedin.png"></a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/ilya-korzun"><img height="36" width="36" src="../instagram.png"></a>&nbsp;&nbsp;
 </p>
