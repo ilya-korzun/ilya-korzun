@@ -17,7 +17,7 @@
 
 | Проекты       | Описание          | Технологии  | Ссылка на сборку |
 | ------------- | ----------------- | ----------- | ---------------- |
-| [Belaruswar]| Разработка фиксированных страниц интернет-магазина "Техномарт" | HTML, CSS, Vanilla JavaScript (ES5) | [Интернет-магазин "Техномарт"](https://korbutds.github.io/technomart/) |
+| Belaruswar | Разработка фиксированных страниц интернет-магазина "Техномарт" | HTML, CSS, Vanilla JavaScript (ES5) | [Интернет-магазин "Техномарт"](https://korbutds.github.io/technomart/) |
 | [Седона](https://github.com/korbutds/sedona) | Разработка фиксированных страниц сайта города Седона | HTML, CSS, Vanilla JavaScript (ES5) | [Веб-сайт города Седона](https://korbutds.github.io/sedona/) |
 | [Мишка](https://github.com/korbutds/mishka) | Разработка адаптивных страниц интернет-магазина милых вещиц "Мишка" | HTML, SCSS, Vanilla JavaScript (ES5), GULP, WEBPACK, adaptive, BEM | [Интернет-магазин "Мишка"](https://mis-git-master-korbutds.vercel.app/) |
 | [Кексобукинг](https://github.com/korbutds/keksobooking) | Кексобукинг — сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио. | Vanilla JavaScript (ES5) | [Сайт аренды недвижимости "Кексобукинг"](https://korbutds.github.io/keksobooking/) |
