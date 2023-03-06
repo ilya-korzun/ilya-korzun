@@ -27,7 +27,7 @@
 | Belaruswar | Сайт, посвященный Великой Отечественной войне и ее героям | HTML, PUG, SCSS, JS, GULP, BEM, SEO оптимизация | [Belaruswar](https://belaruswar.by) |
 | JS Calculate | Калькулятор для расчёта стоимости разработки сайта | HTML, CSS, JS, PHP | [JS Calculate](https://ilya-korzun.github.io/js-calculate) |
 | OfficeDirect | Дипломный проект курса «Web-start» от Glo academy | HTML, SCSS, JS, GULP, BEM | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
-| CenterLogistic | Многостраничный сайт для логистической компании | HTML, CSS, JS | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
+| CenterLogistic | Многостраничный сайт для логистической компании | HTML, CSS, JS, BEM | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
 
 
 ### 💌 Буду рад рассмотреть Ваши предложения к сотрудничеству.
