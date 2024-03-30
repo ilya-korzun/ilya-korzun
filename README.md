@@ -1,33 +1,36 @@
-Меня зовут Илья, я верстальщик и UX/UI дизайнер из Минска. Я занимаюсь разработкой **продуманного, креативного,** а самое главное **продающего** дизайна и **чистой, валидной, кросс-браузерной** верстки. Работая со мной, Ваш сайт всегда будет работать **быстро, надежно, безошибочно** и **эффективно!**
+Hello! My name is Ilya, and I specialize in Frontend development and UX/UI design. My passion is to create unique projects that are not only visually appealing but also optimized for maximum user convenience. My approach to project creation is based on deep analysis of user needs and constant study of new trends in development and design. My goal is not just to create aesthetically pleasing interfaces, but to develop effective solutions that address specific tasks of your business.
 
-### 🔭 Мой технический стек:
+### Technologies:
+Frontend development:
 - HTML, Pug
 - CSS, SASS(SCSS), LESS
-- JavaScript
-- Методология БЭМ
 - Bootstrap 5
-- Git, Github
-- Библиотеки — Swiper, Slick Slider, jQuery, Font Awesome, Animate.css и другие
-- Адаптивная, валидативная, кросс браузерная, семантическая верстка
-- Верстка под Pixel Perfect
-- Сборщик Gulp
-- SEO оптимизация
-- Оптимизация производительности
-- Figma, Sketch, Adobe XD
-
-### 🌱 В данный момент изучаю:
-- JS
+- Gulp
+- JavaScript
 - React
+- Adaptive, validative, cross-browser, semantic layout, layout for Pixel Perfect
+- BEM methodology
+- SEO optimization
+- Performance optimization
+- Git, Github
+  
+UX/UI design:
+- Figma, Sketch
+- Adobe Photoshop, Adobe Illustrator
 
-### ⚡ Мои проекты:
+### My projects:
 
 
-| Проекты       | Описание          | Технологии  | Ссылка на работу |
+| Projects      | Description          | Technologies  | Link ro work |
 | ------------- | ----------------- | ----------- | ---------------- |
-| Belaruswar | Сайт, посвященный Великой Отечественной войне и ее героям | HTML, PUG, SCSS, JS, GULP, BEM, SEO оптимизация | [Belaruswar](https://belaruswar.by) |
-| JS Calculate | Калькулятор для расчёта стоимости разработки сайта | HTML, CSS, JS, PHP | [JS Calculate](https://ilya-korzun.github.io/js-calculate) |
-| OfficeDirect | Дипломный проект курса «Web-start» от Glo academy | HTML, SCSS, JS, GULP, BEM | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
-| CenterLogistic | Многостраничный сайт для логистической компании | HTML, CSS, JS, BEM | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
+| Belaruswar | Website dedicated to the World War 2 and its heroes | HTML, PUG, SCSS, JS, GULP, BEM methodology, SEO optimization | [Belaruswar](https://belaruswar.by) |
+| JS Calculate | Calculator for calculating the cost of website development | HTML, CSS, JS, PHP | [JS Calculate](https://ilya-korzun.github.io/js-calculate) |
+| OfficeDirect | Diploma project for the «Web-start» course from Glo academy| HTML, SCSS, JS, GULP, BEM methodology | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
+| CenterLogistic | Multi-page website for a logistics company | HTML, CSS, JS, BEM methodology | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
 
 
-### 💌 Буду рад рассмотреть Ваши предложения к сотрудничеству.
+### I will be glad to consider your proposals for cooperation.
+- [Telegram: ilya_korzun](https://t.me/ilya_korzun)
+- [Instagram: korzun_ilya](https://www.instagram.com/korzun_ilya)
+- [Email: korsynilya77@gmail.com](mailto:korsynilya77@gmail.com)
+- [Portfolio on Behance](https://www.behance.net/ilya_korzun)
