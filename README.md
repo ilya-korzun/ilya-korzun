@@ -19,8 +19,6 @@ UX/UI design:
 - Adobe Photoshop, Adobe Illustrator
 
 ### My projects:
-
-
 | Projects      | Description          | Technologies  | Link ro work |
 | ------------- | ----------------- | ----------- | ---------------- |
 | Belaruswar | Website dedicated to the World War 2 and its heroes | HTML, PUG, SCSS, JS, GULP, BEM methodology, SEO optimization | [Belaruswar](https://belaruswar.by) |
