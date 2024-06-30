@@ -26,7 +26,6 @@ UX/UI design:
 | OfficeDirect | Diploma project for the «Web-start» course from Glo academy| HTML, SCSS, JS, GULP, BEM methodology | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
 | CenterLogistic | Multi-page website for a logistics company | HTML, CSS, JS, BEM methodology | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
 
-
 ### I will be glad to consider your proposals for cooperation.
 - [Telegram: ilya_korzun](https://t.me/ilya_korzun)
 - [Instagram: korzun_ilya](https://www.instagram.com/korzun_ilya)
