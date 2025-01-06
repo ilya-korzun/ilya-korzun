@@ -21,7 +21,7 @@ UX/UI design:
 ### My projects:
 | Projects      | Description          | Technologies  | Link ro work |
 | ------------- | ----------------- | ----------- | ---------------- |
-| Belaruswar | Website dedicated to the World War 2 and its heroes | HTML, PUG, SCSS, JS, GULP, BEM methodology, SEO optimization | [Belaruswar](https://belaruswar.by) |
+| Belaruswar | Website dedicated to the World War 2 and its heroes | HTML, PUG, SCSS, JS, GULP, BEM methodology, SEO optimization | [Belaruswar](https://belaruswar2025.by) |
 | JS Calculate | Calculator for calculating the cost of website development | HTML, CSS, JS, PHP | [JS Calculate](https://ilya-korzun.github.io/js-calculate) |
 | OfficeDirect | Diploma project for the «Web-start» course from Glo academy| HTML, SCSS, JS, GULP, BEM methodology | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
 | CenterLogistic | Multi-page website for a logistics company | HTML, CSS, JS, BEM methodology | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
