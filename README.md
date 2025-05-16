@@ -48,7 +48,7 @@ UX/UI design:
 - Russian (Native)
 - English (B2)
   
-### I will be glad to consider your proposals for cooperation.
+### Contacts:
 - [Telegram: themayrose](https://t.me/themayrose)
 - [Instagram: ilyaaakorzun](https://www.instagram.com/ilyaaakorzun)
 - [Email: ilyaaakorzun@gmail.com](mailto:ilyaaakorzun@gmail.com)
