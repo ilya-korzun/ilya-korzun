@@ -33,16 +33,6 @@ UX/UI design:
 ### Related work experience:
 - System Administrator Assistant (Gymnasium No. 7 for the City of Minsk | Part-time)
 
-### Related competition awards:
-- 1st Place – National “PATRIOT.by” Contest (2021)
-- 1st Place – City Round, National “TechnoIntellect” Contest (2022)
-- 2nd Place – Final Round, City Contest-Festival “Of Gallantry, Of Heroism, Of Glory” (2022)
-- 2nd Place – National “PATRIOT.by” Contest (2022)
-- 3rd Place – National “Best Website of an Educational Institution” Contest (2023)
-- Laureate, International Festival of Innovative Pedagogical Ideas (2023)
-- Winner, International Exhibition-Fair “Territory of Generating New Ideas” (2023)
-- 2nd place – International Scientific-Practical Conference on WWII Historical Memory (2023)
-
 ### Languages:
 - Belarusian (Native)
 - Russian (Native)
