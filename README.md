@@ -25,7 +25,6 @@ UX/UI design:
 ### My projects:
 | Project      | Description          | Technologies  | Link |
 | ------------- | ----------------- | ----------- | ---------------- |
-| Belaruswar | Historical website honoring World War II and its heroes in Belarus | HTML, SCSS, JS, PHP | [Belaruswar](https://belaruswar2025.by) |
 | JS Calculate | Interactive calculator for estimating website development costs | HTML, CSS, JS, PHP | [JS Calculate](https://ilya-korzun.github.io/js-calculate) |
 | OfficeDirect | Diploma project: modern responsive website built during Glo Academy’s "Web-Start" course | HTML, SCSS, JS, PHP | [OfficeDirect](https://ilya-korzun.github.io/officedirect/src) |
 | CenterLogistic | Multi-page website developed for a logistics company | HTML, CSS, JS | [CenterLogistic](https://ilya-korzun.github.io/centerlogistic) |
@@ -35,11 +34,10 @@ UX/UI design:
 
 ### Languages:
 - Belarusian (Native)
-- Russian (Native)
-- English (B2)
+- English (C1)
   
 ### Contacts:
 - [Telegram: themayrose](https://t.me/themayrose)
 - [Instagram: ilyaaakorzun](https://www.instagram.com/ilyaaakorzun)
 - [Email: ilyaaakorzun@gmail.com](mailto:ilyaaakorzun@gmail.com)
-- [Portfolio on Behance](https://www.behance.net/ilyakorzun-old)
+- [Portfolio on Behance](https://www.behance.net/ilyakorzun)
